@@ -1,9 +1,9 @@
 # `contract workflow framework`
 
-> Baseline Configuration for other services 
+> Baseline Configuration for other services
 
 ## Overview
 
-## License 
+## License
 
 MIT
